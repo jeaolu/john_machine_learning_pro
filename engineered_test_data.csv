@@ -1,0 +1,681 @@
+Do you have Family?,Are you paying a Debt?,Employment Status,Are you a Student?,Do you Travel a Lot?,Have a Well Paid Job?,Saving Goals,Duration to Accomplish Goals (years),Income per Month,Debt Amount,Monthly Expenses,Goal Type,income_expense_ratio
+False,1,0,0,1,1,Save for Retirement,10,8834,27045,6650,Big,1.328421052631579
+False,1,1,0,0,1,College Fund for Children,27,4148,13629,1626,Big,2.5510455104551046
+False,1,2,1,1,0,Refurbish my home,6,9173,21207,5164,Big,1.7763361735089078
+False,0,1,1,1,1,Organise Family event,9,9762,0,5735,,1.7021795989537924
+False,1,1,0,1,1,Wedding to attend,30,2247,33148,2013,Small,1.1162444113263785
+False,0,0,1,0,1,Home maintenance,5,9461,0,5182,Small,1.8257429563874952
+True,1,2,1,1,0,Build 3 months emergency fund,25,5645,4724,627,Small,9.003189792663477
+True,1,0,0,0,1,Going on holidays in December,10,9956,19587,2293,Small,4.341910161360663
+True,0,1,1,1,0,Birthday of family member or friend,19,9086,0,2900,Small,3.133103448275862
+True,0,0,1,1,0,Organise Christmas,23,5261,0,1103,Small,4.7697189483227564
+True,1,1,1,0,1,Build wealth through investments,10,9648,35317,2355,Small,4.096815286624204
+True,0,2,1,1,0,Plan vacations,5,4589,0,1341,,3.4220730797912005
+True,0,2,0,1,0,Purchase a house / flat,20,5079,0,2458,Big,2.066314076484947
+True,1,0,0,1,0,Pay-off your mortgage early,24,7728,31296,5520,Big,1.4
+False,1,0,1,1,1,Starting a family,24,6071,28621,5448,Big,1.1143538913362703
+True,0,1,0,0,1,Financial Independence,14,7053,0,6818,Big,1.034467585802288
+False,1,2,1,1,0,Travel the World,15,7054,46055,6535,Big,1.0794185156847742
+False,0,1,1,1,1,Take a Road Trip Across a Country,28,8756,0,4484,Big,1.952720785013381
+False,0,1,1,0,1,Get a Degree or Certification,10,7842,0,3424,Big,2.290303738317757
+True,1,1,0,1,0,Take a Cooking Class,10,9785,31395,2410,Big,4.060165975103734
+False,1,2,1,1,1,Take a Helicopter Tour,11,6736,30620,3488,Big,1.9311926605504588
+False,0,2,0,0,0,Stay in a Five-Star Hotel,18,9485,0,4153,Big,2.283891163014688
+False,1,1,0,0,0,Ride the Orient Express,12,6509,16342,6342,Big,1.0263323872595396
+False,0,2,1,1,1,Scuba Diving in a Coral Reef,20,4750,0,1457,Big,3.260123541523679
+True,1,0,0,1,0,Climb a Mountain,5,6109,35959,1809,Big,3.377003869541183
+False,0,2,1,0,0,Skydiving,15,7861,0,4389,Big,1.7910685805422648
+True,1,2,1,1,0,Go Paragliding,17,6802,40066,3793,Big,1.7933034537305563
+False,1,1,0,0,0,Explore Ancient Ruins,13,9461,8295,5511,Big,1.7167483215387407
+False,1,1,1,1,0,Attend a Major Festival,1,7073,23570,5964,Big,1.1859490274983233
+False,0,0,1,1,0,Zip Line Through a Forest,1,3955,0,2989,Big,1.3231850117096018
+False,0,2,0,0,0,Swim with Dolphins or Sharks,28,6965,0,6275,Big,1.1099601593625499
+False,1,2,1,0,0,Camp Under the Stars,20,5653,29869,2537,Big,2.228222309814742
+True,1,0,1,0,0,Save for Retirement,28,6761,13231,2361,Big,2.863617111393477
+True,0,2,1,0,1,Start a company,2,9476,0,4517,Big,2.097852557006863
+False,0,2,0,0,0,College Fund for Children,11,7565,0,2399,Big,3.153397248853689
+False,1,0,0,0,1,Refurbish my home,6,5340,43634,1068,Big,5.0
+False,1,1,0,0,0,Purchase a car,1,6663,5371,2214,Big,3.0094850948509486
+True,1,2,0,0,0,Purchase a boat,12,6081,33685,1767,Big,3.441426146010187
+True,1,1,0,1,0,Organise Family event,29,9905,28122,1191,,8.316540722082284
+True,1,1,1,0,1,Wedding to attend,18,9550,2540,6533,Small,1.4618092759834684
+True,0,0,1,1,1,Build 3 months emergency fund,11,4665,0,700,Small,6.664285714285715
+False,1,2,0,0,0,Build 6 months emergency fund,5,8492,3913,3560,Small,2.385393258426966
+True,1,2,0,1,0,Organise Christmas,6,9197,15713,4203,Small,2.1881989055436595
+False,1,1,1,1,1,Saving for long break at work,3,4452,5912,3169,Small,1.4048595771536763
+True,1,1,0,0,1,Plan vacations,16,5643,21986,4556,,1.2385864793678665
+True,1,0,0,0,1,Purchase a house / flat,26,6817,8246,3822,Big,1.783621140763998
+False,1,0,1,1,1,Starting a family,29,7150,49924,1817,Big,3.9350577875619153
+False,1,1,1,1,1,Financial Independence,23,6495,26897,6361,Big,1.0210658701462034
+False,1,1,1,0,0,Travel the World,19,4669,24506,3801,Big,1.2283609576427257
+True,0,2,1,0,1,Go on an African Safari,16,5164,0,2544,Big,2.029874213836478
+False,0,0,0,1,1,Take a Road Trip Across a Country,12,8394,0,2989,Big,2.8082970893275343
+False,0,0,0,1,1,Backpack Through Continent,11,7320,0,4173,Big,1.754133716750539
+True,1,2,0,0,0,See the Northern Lights,6,5151,42810,1670,Big,3.084431137724551
+False,1,0,0,0,1,Take a Cooking Class,3,7095,42229,2232,Big,3.178763440860215
+False,1,2,1,0,0,Learn to Play a Musical Instrument,22,3781,21637,1821,Big,2.0763316858868754
+True,0,1,0,0,1,Take a Helicopter Tour,21,6419,0,2133,Big,3.0093764650726675
+False,1,1,1,0,0,Stay in a Five-Star Hotel,4,8989,16499,2228,Big,4.034560143626571
+True,0,2,0,0,0,Dine at a Michelin-Star Restaurant,12,8255,0,2187,Big,3.7745770461819843
+True,1,1,0,0,1,Sleep in an Ice Hotel,24,4420,45177,2754,Big,1.6049382716049383
+False,1,0,0,1,1,Ride the Orient Express,18,6226,43368,2881,Big,2.161055189170427
+True,1,2,0,0,0,Scuba Diving in a Coral Reef,8,4589,31787,3498,Big,1.3118925100057175
+True,0,0,1,0,1,Climb a Mountain,3,9714,0,6990,Big,1.3896995708154507
+False,0,2,0,0,0,Bungee Jump,3,9327,0,4685,Big,1.9908217716115262
+False,1,0,1,0,0,Skydiving,26,6048,1118,5224,Big,1.1577335375191424
+False,1,0,1,0,0,Go Paragliding,13,3096,44194,1316,Big,2.3525835866261398
+False,1,0,1,1,1,Explore Ancient Ruins,11,8589,41120,953,Big,9.012591815320041
+True,0,0,0,1,1,Attend a Major Festival,5,7027,0,5760,Big,1.2199652777777779
+True,1,0,1,0,0,Zip Line Through a Forest,20,6114,34341,5984,Big,1.0217245989304813
+True,0,2,0,1,1,Swim with Dolphins or Sharks,4,5564,0,587,Big,9.47870528109029
+True,1,2,1,1,0,Attend a Major Sporting Event,1,5828,49306,648,Big,8.993827160493828
+True,1,1,0,0,0,Save for Retirement,23,7191,15701,3132,Big,2.295977011494253
+True,1,0,1,1,1,Start a company,29,8143,5519,1333,Big,6.1087771942985745
+False,1,1,0,0,0,Refurbish my home,21,3831,27715,2846,Big,1.3460997891777935
+False,1,1,0,1,1,Purchase a car,24,4269,22914,4058,Big,1.0519960571710203
+False,0,0,1,1,0,Purchase a boat,5,3847,0,2164,Big,1.7777264325323474
+False,0,1,0,0,0,Purchase a land,29,8148,0,6538,Big,1.246252676659529
+False,0,1,1,1,0,Wedding to attend,21,9193,0,5575,Small,1.6489686098654708
+True,0,2,1,0,1,Home maintenance,19,7533,0,634,Small,11.881703470031546
+False,1,0,0,1,0,Build 3 months emergency fund,11,9347,32635,3590,Small,2.6036211699164347
+False,0,2,0,1,0,Build 12 months emergency fund,20,9754,0,4805,Small,2.02996878251821
+True,1,1,1,0,0,Going on holidays in December,9,8795,26186,4946,Small,1.7782046097856854
+False,1,0,1,0,1,Birthday of family member or friend,10,6578,23020,564,Small,11.663120567375886
+False,0,0,1,0,0,Organise Christmas,13,8330,0,4842,Small,1.7203634861627426
+False,1,0,1,0,1,Saving for long break at work,30,8621,29583,2614,Small,3.298010711553175
+True,1,1,0,0,0,Build wealth through investments,19,7691,25996,5785,Small,1.3294727744165946
+True,1,0,1,1,1,Purchase a house / flat,6,6355,11990,5905,Big,1.0762066045723964
+True,1,2,1,0,0,Travel the World,30,4297,35852,3032,Big,1.41721635883905
+True,0,0,1,1,1,Go on an African Safari,15,8201,0,5423,Big,1.5122625852848977
+False,0,0,1,0,0,Take a Road Trip Across a Country,13,7358,0,5232,Big,1.4063455657492354
+True,1,0,1,0,0,Backpack Through Continent,18,3986,10234,898,Big,4.4387527839643655
+False,1,1,0,1,1,See the Northern Lights,27,7336,38937,6364,Big,1.1527341294783156
+True,0,2,1,0,0,Get a Degree or Certification,24,5344,0,2338,Big,2.2857142857142856
+True,0,2,0,1,0,Take a Cooking Class,23,5119,0,2486,Big,2.0591311343523735
+False,1,2,0,0,1,Learn to Play a Musical Instrument,14,7014,22357,6408,Big,1.094569288389513
+False,1,1,1,1,0,Take a Helicopter Tour,28,8001,17459,4064,Big,1.96875
+True,0,2,1,1,0,Stay in a Five-Star Hotel,27,5950,0,4361,Big,1.3643659711075442
+True,0,1,0,0,1,Fly First Class or in a Private Jet,15,6393,0,1462,Big,4.372777017783858
+True,1,0,1,1,1,Dine at a Michelin-Star Restaurant,3,9506,41166,6991,Big,1.3597482477471035
+False,1,2,1,1,1,Sleep in an Ice Hotel,13,9133,4691,5363,Big,1.702964758530673
+True,0,2,0,0,1,Scuba Diving in a Coral Reef,17,5874,0,2720,Big,2.159558823529412
+False,1,2,0,0,1,Bungee Jump,7,2558,16660,1828,Big,1.399343544857768
+False,1,1,1,1,1,Skydiving,18,6192,29700,2375,Big,2.607157894736842
+True,0,1,1,0,1,Stay in an Overwater Bungalow,4,7806,0,3611,Big,2.161728053170867
+False,0,0,1,1,1,Explore Ancient Ruins,15,9161,0,1421,Big,6.446868402533427
+True,0,1,0,0,1,Attend a Major Festival,5,6032,0,5815,Big,1.03731728288908
+True,1,2,1,1,1,Zip Line Through a Forest,1,5835,31584,2978,Big,1.9593687038280725
+False,1,0,1,1,0,Attend a Major Sporting Event,5,7877,3413,3577,Big,2.2021246854906344
+False,0,0,1,1,0,Save for Retirement,14,7586,0,1715,Big,4.42332361516035
+False,0,1,0,0,1,Start a company,18,4590,0,4551,Big,1.008569545154911
+True,0,1,1,0,1,College Fund for Children,8,6177,0,1146,Big,5.390052356020942
+True,1,2,1,1,1,Refurbish my home,28,8728,31976,6178,Big,1.4127549368727743
+True,1,1,1,1,0,Purchase a car,6,7978,23838,1054,Big,7.569259962049336
+False,0,0,0,1,0,Purchase a boat,20,4532,0,2463,Big,1.8400324807145758
+True,0,0,0,1,0,Purchase a land,8,9274,0,5163,Big,1.7962424946736393
+True,1,0,0,1,1,Organise Family event,9,4435,33509,4204,,1.0549476688867745
+False,0,0,0,1,0,Build 6 months emergency fund,1,6560,0,4748,Small,1.3816343723673126
+True,1,2,1,0,1,Build 12 months emergency fund,13,9261,10457,4969,Small,1.863755282753069
+False,0,2,0,1,1,Break the paycheck-to-paycheck cycle,12,5714,0,500,,11.428
+False,1,0,1,1,1,Going on holidays in December,10,8770,27589,1841,Small,4.763715372080391
+False,0,0,0,0,0,Birthday of family member or friend,2,5725,0,3783,Small,1.5133491937615648
+True,1,0,1,0,0,Saving for long break at work,25,1408,2452,1212,Small,1.1617161716171618
+True,1,0,0,1,0,Build wealth through investments,25,3149,2761,1038,Small,3.033718689788054
+True,0,1,0,0,1,Pay-off your mortgage early,21,4537,0,3389,Big,1.338742992033048
+False,0,0,1,0,1,Starting a family,23,6581,0,6020,Big,1.0931893687707641
+True,0,1,0,1,1,Financial Independence,25,6836,0,1162,Big,5.882960413080895
+False,0,1,1,1,1,Travel the World,14,2746,0,2054,Big,1.3369036027263876
+True,1,2,1,0,1,Take a Road Trip Across a Country,3,6495,34981,6084,Big,1.0675542406311638
+False,0,0,0,1,0,Backpack Through Continent,2,8931,0,3061,Big,2.9176739627572688
+True,1,2,1,0,0,Take a Cooking Class,1,5407,2473,3186,Big,1.697112366603892
+False,0,0,1,0,1,Learn a New Language,11,6079,0,3205,Big,1.896723868954758
+True,1,0,1,1,1,Learn to Play a Musical Instrument,30,6242,19757,568,Big,10.98943661971831
+True,1,1,0,1,0,Take a Helicopter Tour,17,9917,39412,4674,Big,2.121737270004279
+True,0,2,1,0,0,Stay in a Five-Star Hotel,21,7469,0,3895,Big,1.9175866495507061
+True,0,2,0,0,0,Fly First Class or in a Private Jet,20,7004,0,4763,Big,1.4705017845895445
+False,1,0,0,0,0,Ride the Orient Express,6,4897,19819,1979,Big,2.4744820616472967
+True,0,0,1,0,0,Scuba Diving in a Coral Reef,6,7960,0,4235,Big,1.8795749704840614
+False,1,1,1,0,0,Climb a Mountain,19,8630,5839,3913,Big,2.205468949654996
+False,0,2,1,1,0,Skydiving,15,9725,0,5395,Big,1.8025949953660798
+False,0,0,0,1,1,Visit a Volcano,3,6507,0,1478,Big,4.402571041948579
+True,0,2,1,1,1,Explore Ancient Ruins,21,4448,0,4400,Big,1.010909090909091
+False,1,0,0,0,0,Attend a Major Festival,21,2414,18355,1362,Big,1.7723935389133627
+False,0,2,0,0,0,Zip Line Through a Forest,14,3299,0,2689,Big,1.2268501301599108
+True,1,1,0,1,0,Swim with Dolphins or Sharks,15,7545,19826,5707,Big,1.3220606272998072
+False,1,0,0,1,1,Camp Under the Stars,30,4687,28842,2582,Big,1.8152594887683966
+True,1,2,0,1,1,Start a company,19,7631,29060,5276,Big,1.4463608794541318
+False,1,2,0,0,0,College Fund for Children,12,9473,37516,4236,Big,2.236307837582625
+True,1,2,0,1,1,Purchase a car,23,7131,48579,3775,Big,1.8890066225165563
+True,0,1,0,1,0,Purchase a boat,5,7515,0,4899,Big,1.533986527862829
+True,1,2,1,0,0,Purchase a land,25,3027,6288,2067,Big,1.4644412191582004
+True,1,2,1,0,0,Wedding to attend,3,6668,40536,6274,Small,1.062798852406758
+True,0,0,1,1,0,Home maintenance,18,8615,0,6288,Small,1.3700699745547074
+False,0,1,0,0,1,Build 3 months emergency fund,17,3888,0,1206,Small,3.2238805970149254
+False,1,0,1,0,0,Build 12 months emergency fund,16,9788,18409,1402,Small,6.981455064194009
+True,0,0,0,1,1,Birthday of family member or friend,5,7391,0,6439,Small,1.1478490448827459
+True,1,1,1,1,0,Plan vacations,20,2973,49405,2302,,1.291485664639444
+True,0,0,1,1,1,Purchase a house / flat,3,9845,0,4370,Big,2.2528604118993134
+True,0,0,0,0,0,Financial Independence,22,4186,0,2874,Big,1.4565066109951288
+False,0,1,1,0,0,Go on an African Safari,10,8678,0,4210,Big,2.0612826603325414
+True,1,0,0,0,0,Take a Road Trip Across a Country,6,3007,47407,2950,Big,1.0193220338983051
+True,1,0,1,1,0,Backpack Through Continent,29,8519,48919,6956,Big,1.2246981023576768
+True,0,0,0,0,1,See the Northern Lights,11,1248,0,885,Big,1.4101694915254237
+True,0,2,0,1,0,Get a Degree or Certification,13,7172,0,2579,Big,2.780922838309422
+False,0,2,1,0,1,Learn a New Language,8,9627,0,3974,Big,2.422496225465526
+False,1,1,0,1,1,Learn to Play a Musical Instrument,27,8364,10618,3543,Big,2.3607112616426758
+True,1,1,1,1,1,Fly First Class or in a Private Jet,21,7438,12810,4355,Big,1.7079219288174512
+True,1,1,0,1,1,Dine at a Michelin-Star Restaurant,9,3223,36417,889,Big,3.625421822272216
+False,1,0,0,1,1,Climb a Mountain,22,2586,45032,1110,Big,2.32972972972973
+False,1,0,1,0,1,Bungee Jump,17,2114,21407,920,Big,2.2978260869565217
+True,0,1,0,0,0,Skydiving,8,9815,0,4353,Big,2.2547668274753043
+False,0,1,0,1,0,Go Paragliding,24,9225,0,6772,Big,1.3622268163024218
+False,0,0,0,0,0,Visit a Volcano,17,2310,0,1735,Big,1.3314121037463977
+True,0,0,0,1,1,Stay in an Overwater Bungalow,26,6721,0,515,Big,13.050485436893204
+True,1,0,0,1,0,Explore Ancient Ruins,3,9127,39392,3563,Big,2.561605388717373
+True,1,0,1,1,1,Attend a Major Festival,26,9264,46754,2238,Big,4.13941018766756
+True,1,1,0,1,0,Zip Line Through a Forest,4,9993,15846,763,Big,13.096985583224116
+False,1,2,1,1,1,Swim with Dolphins or Sharks,16,2191,11325,2117,Big,1.0349551251771374
+False,1,2,1,1,1,Attend a Major Sporting Event,24,7732,7598,4825,Big,1.6024870466321244
+False,0,2,0,1,1,Camp Under the Stars,25,6373,0,1729,Big,3.6859456333140543
+True,1,2,0,1,0,Save for Retirement,28,4558,37529,853,Big,5.343493552168816
+True,0,2,0,1,0,College Fund for Children,6,3874,0,3744,Big,1.0347222222222223
+False,0,2,1,1,1,Purchase a car,19,6269,0,970,Big,6.4628865979381445
+False,0,0,1,1,1,Purchase a boat,9,8667,0,4576,Big,1.8940122377622377
+True,0,1,1,0,0,Purchase a land,2,5099,0,897,Big,5.684503901895206
+True,0,1,0,0,1,Organise Family event,6,6175,0,5275,,1.1706161137440758
+True,1,0,0,1,0,Wedding to attend,21,3485,8147,2983,Small,1.1682869594368086
+True,0,0,0,1,1,Build 3 months emergency fund,27,6370,0,1626,Small,3.917589175891759
+False,0,2,1,1,0,Build 6 months emergency fund,12,6859,0,2642,Small,2.596139288417865
+False,0,0,1,1,1,Going on holidays in December,4,5041,0,1825,Small,2.762191780821918
+False,0,0,0,0,1,Birthday of family member or friend,6,7451,0,3680,Small,2.024728260869565
+True,0,2,0,1,1,Organise Christmas,12,7685,0,6510,Small,1.1804915514592933
+False,0,1,0,1,1,Build wealth through investments,14,3343,0,1570,Small,2.1292993630573247
+False,0,1,0,0,0,Pay-off your mortgage early,29,9764,0,5324,Big,1.8339594290007513
+False,0,1,1,0,0,Financial Independence,2,7555,0,3775,Big,2.0013245033112583
+True,0,0,0,1,0,Travel the World,30,4366,0,2079,Big,2.1000481000481
+True,1,0,1,1,1,Backpack Through Continent,26,6279,3867,4263,Big,1.4729064039408868
+False,1,2,0,0,0,Get a Degree or Certification,29,1577,7798,977,Big,1.6141248720573182
+False,1,1,1,1,1,Take a Cooking Class,23,9538,17325,1908,Big,4.99895178197065
+False,0,0,0,1,1,Take a Helicopter Tour,12,7507,0,6275,Big,1.1963346613545818
+True,0,0,0,1,1,Stay in a Five-Star Hotel,8,4294,0,3463,Big,1.239965347964193
+False,0,2,0,1,0,Fly First Class or in a Private Jet,7,7816,0,2414,Big,3.2377796188898094
+True,1,0,1,0,0,Dine at a Michelin-Star Restaurant,21,5691,39683,2389,Big,2.382168271243198
+True,0,1,0,1,0,Ride the Orient Express,10,8328,0,1077,Big,7.7325905292479105
+False,0,0,0,0,1,Climb a Mountain,7,2593,0,1692,Big,1.5325059101654845
+True,1,2,0,1,0,Bungee Jump,8,8100,33791,5222,Big,1.551129835312141
+False,0,0,1,1,1,Skydiving,6,2472,0,922,Big,2.6811279826464207
+True,0,1,0,1,1,Attend a Major Festival,20,8825,0,1795,Big,4.9164345403899725
+False,0,0,1,1,0,Zip Line Through a Forest,21,9574,0,4425,Big,2.1636158192090393
+False,1,2,0,1,0,Swim with Dolphins or Sharks,17,4851,33601,1070,Big,4.5336448598130845
+True,1,1,1,1,1,Attend a Major Sporting Event,12,6503,4677,3890,Big,1.6717223650385604
+True,0,1,1,0,1,Camp Under the Stars,21,8654,0,2610,Big,3.3157088122605365
+False,1,1,0,1,1,Start a company,11,5411,22135,2902,Big,1.8645761543762922
+False,0,2,0,1,0,College Fund for Children,22,6338,0,4846,Big,1.307882789929839
+True,0,1,0,0,0,Refurbish my home,19,6271,0,2685,Big,2.3355679702048415
+True,1,2,1,1,1,Purchase a car,14,6205,18385,5709,Big,1.0868803643370117
+False,0,1,0,1,1,Purchase a boat,4,8806,0,3370,Big,2.6130563798219586
+False,0,0,1,0,1,Wedding to attend,17,9230,0,1996,Small,4.624248496993988
+False,0,0,0,1,1,Home maintenance,8,7115,0,1828,Small,3.8922319474835887
+True,0,2,1,0,1,Build 6 months emergency fund,11,5912,0,3119,Small,1.8954793202949662
+True,0,2,0,1,1,Break the paycheck-to-paycheck cycle,10,5440,0,4300,,1.2651162790697674
+True,1,0,0,0,1,Organise Christmas,9,8006,32839,6066,Small,1.31981536432575
+False,0,2,1,1,0,Saving for long break at work,7,4698,0,2120,Small,2.2160377358490564
+True,1,1,1,0,0,Build wealth through investments,18,8900,19730,3228,Small,2.7571251548946716
+True,0,0,1,0,1,Plan vacations,28,9234,0,2738,,3.372534696859021
+True,1,1,1,0,1,Purchase a house / flat,9,7624,2013,6804,Big,1.120517342739565
+True,1,0,0,0,0,Pay-off your mortgage early,11,9156,20411,1686,Big,5.430604982206406
+False,1,0,0,1,0,Financial Independence,10,9185,25481,2259,Big,4.065958388667552
+False,0,0,1,1,1,Travel the World,26,9139,0,2540,Big,3.598031496062992
+False,1,1,0,0,1,Go on an African Safari,8,9738,19420,6448,Big,1.5102357320099256
+False,1,0,1,1,0,Backpack Through Continent,2,4960,34089,4776,Big,1.0385259631490786
+False,1,2,0,1,1,Take a Cooking Class,22,7907,5450,5673,Big,1.3937951701040014
+False,0,0,1,0,1,Learn to Play a Musical Instrument,17,9881,0,4549,Big,2.1721257419213016
+True,0,2,1,0,0,Stay in a Five-Star Hotel,9,7262,0,6043,Big,1.2017209995035578
+True,1,1,1,1,1,Sleep in an Ice Hotel,21,6583,47553,4057,Big,1.622627557308356
+False,0,1,0,1,0,Ride the Orient Express,13,4324,0,3288,Big,1.3150851581508516
+True,0,1,1,0,1,Scuba Diving in a Coral Reef,3,5744,0,670,Big,8.57313432835821
+True,1,2,1,1,1,Climb a Mountain,10,5999,21324,4444,Big,1.3499099909991
+True,1,0,0,0,0,Skydiving,18,9882,17340,2260,Big,4.372566371681416
+False,1,2,0,1,0,Go Paragliding,16,9060,8574,5671,Big,1.59760183389173
+False,1,1,0,0,1,Visit a Volcano,7,9747,20808,2793,Big,3.489795918367347
+True,1,2,0,1,0,Stay in an Overwater Bungalow,9,3078,34707,2718,Big,1.1324503311258278
+False,1,2,1,1,1,Zip Line Through a Forest,10,4231,48502,506,Big,8.361660079051383
+True,1,2,1,0,1,Swim with Dolphins or Sharks,5,3219,5755,978,Big,3.291411042944785
+False,1,0,0,0,1,Attend a Major Sporting Event,29,9071,37422,6008,Big,1.5098202396804261
+False,1,1,0,1,0,Save for Retirement,7,3185,2139,2407,Big,1.3232239302035729
+False,1,0,0,0,1,Start a company,28,7078,7632,6543,Big,1.0817667736512304
+False,0,1,0,0,0,College Fund for Children,10,5731,0,3713,Big,1.5434958254780502
+False,1,2,0,0,0,Refurbish my home,10,8740,14099,3649,Big,2.3951767607563714
+True,1,0,1,1,1,Purchase a car,9,9923,47889,2424,Big,4.093646864686469
+True,0,0,1,0,0,Purchase a boat,14,7431,0,3975,Big,1.869433962264151
+True,0,0,1,1,1,Purchase a land,3,5829,0,4564,Big,1.2771691498685365
+False,0,0,1,0,1,Organise Family event,8,3968,0,3025,,1.3117355371900827
+False,1,2,0,1,1,Wedding to attend,1,5367,28204,3708,Small,1.447411003236246
+False,1,0,1,1,1,Build 3 months emergency fund,16,9088,29445,4498,Small,2.020453534904402
+False,0,2,1,1,1,Build 12 months emergency fund,28,8328,0,1251,Small,6.657074340527578
+False,0,2,0,0,0,Break the paycheck-to-paycheck cycle,8,5146,0,1864,,2.7607296137339055
+True,0,0,1,1,1,Birthday of family member or friend,8,4539,0,1300,Small,3.4915384615384615
+True,0,2,1,0,1,Organise Christmas,15,8757,0,1318,Small,6.644157814871017
+False,1,2,0,0,1,Plan vacations,1,7230,34981,506,,14.288537549407115
+True,0,0,0,0,1,Purchase a house / flat,17,7420,0,5346,Big,1.3879536101758323
+False,0,1,1,1,1,Starting a family,23,8609,0,3437,Big,2.5048006982833866
+True,1,0,0,1,0,Financial Independence,27,2861,29164,2737,Big,1.0453050785531603
+True,1,1,0,1,1,Travel the World,9,7700,21742,6164,Big,1.2491888384166125
+False,1,2,1,0,0,Go on an African Safari,29,6265,49029,2389,Big,2.622436165759732
+True,1,0,1,0,0,Take a Road Trip Across a Country,17,7834,24585,1471,Big,5.3256288239293
+True,0,0,1,1,0,Get a Degree or Certification,9,6604,0,2510,Big,2.6310756972111555
+True,0,1,1,1,0,Learn to Play a Musical Instrument,4,6539,0,2443,Big,2.6766270978305364
+True,1,2,0,0,0,Take a Helicopter Tour,26,5890,31656,999,Big,5.895895895895896
+False,1,0,0,0,0,Stay in a Five-Star Hotel,11,4383,1395,4285,Big,1.0228704784130689
+True,0,0,1,1,0,Dine at a Michelin-Star Restaurant,21,9754,0,4434,Big,2.1998195760036086
+True,0,0,1,1,1,Sleep in an Ice Hotel,28,6329,0,5168,Big,1.2246517027863777
+True,0,2,1,1,1,Ride the Orient Express,19,6897,0,3259,Big,2.1162933415158025
+False,1,2,1,1,1,Climb a Mountain,15,8168,2151,5432,Big,1.503681885125184
+True,1,2,0,1,0,Bungee Jump,18,7113,31964,4779,Big,1.4883866917765223
+False,1,0,1,0,1,Skydiving,18,8797,31265,3799,Big,2.3156093708870755
+False,0,2,0,0,1,Go Paragliding,11,5531,0,3278,Big,1.6873093349603416
+True,0,2,0,0,0,Visit a Volcano,7,9639,0,4146,Big,2.324891461649783
+False,0,0,0,1,1,Stay in an Overwater Bungalow,5,1386,0,599,Big,2.313856427378965
+True,0,2,1,1,0,Explore Ancient Ruins,9,8198,0,4618,Big,1.7752273711563447
+False,1,2,0,1,1,Camp Under the Stars,20,4816,40064,752,Big,6.404255319148936
+True,1,1,1,1,1,Save for Retirement,30,1944,35078,1921,Big,1.0119729307652265
+False,1,1,0,0,1,Start a company,13,3375,3228,2538,Big,1.3297872340425532
+True,0,0,0,1,1,College Fund for Children,16,6247,0,1285,Big,4.8614785992217895
+True,0,2,1,0,0,Refurbish my home,22,6993,0,3268,Big,2.1398408812729497
+False,1,0,1,1,1,Purchase a car,26,6136,7572,1517,Big,4.044825313117996
+True,0,1,1,1,0,Purchase a land,18,7324,0,1833,Big,3.995635570103655
+True,1,1,1,1,0,Organise Family event,25,9305,15148,6892,,1.3501160766105629
+False,1,2,1,1,1,Wedding to attend,11,5844,31210,1855,Small,3.1504043126684635
+False,1,2,1,0,0,Home maintenance,15,5449,29397,2774,Small,1.964311463590483
+False,1,1,0,1,1,Build 3 months emergency fund,10,5487,2170,3212,Small,1.7082814445828145
+False,1,1,0,1,1,Build 6 months emergency fund,21,7930,31242,762,Small,10.406824146981627
+True,0,2,0,0,1,Birthday of family member or friend,27,7668,0,1741,Small,4.4043653072946585
+False,0,0,0,1,0,Saving for long break at work,1,5647,0,5515,Small,1.0239347234814142
+True,0,2,0,0,1,Purchase a house / flat,6,4905,0,4033,Big,1.2162162162162162
+True,1,1,0,1,0,Pay-off your mortgage early,6,7822,37640,2307,Big,3.3905504984828783
+False,1,2,0,1,0,Travel the World,17,8540,35731,514,Big,16.6147859922179
+True,0,0,0,0,1,Go on an African Safari,26,9742,0,2281,Big,4.270933800964489
+True,0,1,1,1,0,Backpack Through Continent,30,7039,0,6977,Big,1.0088863408341695
+True,0,2,1,0,0,See the Northern Lights,18,8694,0,4887,Big,1.7790055248618784
+False,0,2,0,1,0,Get a Degree or Certification,22,4574,0,1796,Big,2.546770601336303
+True,1,0,1,0,1,Take a Cooking Class,16,6088,3956,1706,Big,3.5685814771395075
+False,0,2,1,0,0,Learn a New Language,27,9254,0,6051,Big,1.529333994381094
+False,0,1,0,1,1,Learn to Play a Musical Instrument,22,7828,0,1397,Big,5.603435934144596
+False,0,2,1,0,1,Stay in a Five-Star Hotel,21,9049,0,2700,Big,3.3514814814814815
+False,0,0,1,1,1,Ride the Orient Express,17,8197,0,4784,Big,1.7134197324414715
+False,0,1,0,0,0,Bungee Jump,14,7900,0,1562,Big,5.057618437900128
+True,0,1,1,0,0,Skydiving,27,3953,0,798,Big,4.953634085213032
+False,0,1,0,1,0,Go Paragliding,24,2451,0,1508,Big,1.6253315649867375
+False,1,2,1,0,1,Stay in an Overwater Bungalow,3,2469,26263,2281,Big,1.082419991231916
+False,1,1,1,0,1,Explore Ancient Ruins,24,7422,44877,2589,Big,2.8667439165701043
+False,1,2,0,1,1,Attend a Major Festival,18,8174,38372,1115,Big,7.330941704035874
+True,0,1,1,1,1,Zip Line Through a Forest,10,7355,0,2602,Big,2.8266717909300536
+False,1,2,1,0,0,Attend a Major Sporting Event,12,3735,13828,1873,Big,1.9941270688734651
+False,0,1,0,0,1,Save for Retirement,4,2869,0,2143,Big,1.3387774148390108
+False,1,0,1,0,0,Start a company,4,7061,19716,3321,Big,2.126166817223728
+True,0,0,1,1,0,Refurbish my home,10,5217,0,3241,Big,1.6096883677877198
+True,0,0,0,0,1,Purchase a car,28,6797,0,2731,Big,2.488831929696082
+True,0,1,0,1,0,Purchase a land,19,6329,0,4531,Big,1.3968218936217172
+True,0,2,1,1,1,Organise Family event,2,4433,0,1878,,2.3604898828541
+True,0,2,0,1,0,Build 3 months emergency fund,11,9527,0,1393,Small,6.839195979899498
+True,0,1,1,1,1,Build 6 months emergency fund,23,9788,0,1043,Small,9.384467881112176
+False,0,0,0,0,1,Build 12 months emergency fund,11,8642,0,936,Small,9.232905982905983
+True,1,1,1,0,0,Break the paycheck-to-paycheck cycle,19,9763,24526,3952,,2.4703947368421053
+False,0,0,0,0,1,Going on holidays in December,27,8394,0,4769,Small,1.7601174250366953
+False,1,2,1,1,1,Organise Christmas,21,6228,5178,5464,Small,1.1398243045387995
+False,1,1,0,1,1,Plan vacations,18,7804,33536,3496,,2.232265446224256
+False,1,1,0,1,0,Starting a family,26,5802,29637,1169,Big,4.963216424294268
+True,0,2,1,1,1,Financial Independence,25,9929,0,3348,Big,2.9656511350059738
+True,1,2,0,0,1,Travel the World,24,6232,18867,3966,Big,1.5713565305093293
+True,0,1,0,0,0,Go on an African Safari,15,8263,0,2975,Big,2.7774789915966385
+True,1,2,1,0,0,Take a Road Trip Across a Country,4,9058,33641,6823,Big,1.3275685182471053
+True,1,2,0,1,1,Backpack Through Continent,28,9166,41060,6640,Big,1.3804216867469878
+True,1,0,1,0,0,Get a Degree or Certification,1,8116,24826,5821,Big,1.3942621542690259
+False,0,2,0,0,1,Take a Cooking Class,20,5593,0,3433,Big,1.6291872997378387
+False,0,2,0,1,0,Learn to Play a Musical Instrument,15,8721,0,1635,Big,5.33394495412844
+True,1,0,1,1,1,Take a Helicopter Tour,4,9164,44511,3845,Big,2.3833550065019504
+True,0,1,0,0,1,Stay in a Five-Star Hotel,14,8923,0,5155,Big,1.7309408341416102
+True,1,1,0,1,0,Fly First Class or in a Private Jet,1,9273,14392,5746,Big,1.613818308388444
+True,1,0,1,1,1,Dine at a Michelin-Star Restaurant,10,5413,32867,2321,Big,2.3321844032744505
+False,0,1,1,1,0,Sleep in an Ice Hotel,4,4676,0,3638,Big,1.285321605277625
+True,1,1,1,1,0,Ride the Orient Express,4,5328,40693,4117,Big,1.2941462229778966
+False,1,1,1,0,1,Scuba Diving in a Coral Reef,4,9361,15228,3253,Big,2.8776513987088843
+True,0,1,1,0,1,Skydiving,3,5034,0,3198,Big,1.574108818011257
+False,1,2,1,0,1,Stay in an Overwater Bungalow,14,5680,22427,1814,Big,3.131201764057332
+True,1,2,1,0,0,Explore Ancient Ruins,10,5063,45885,3560,Big,1.422191011235955
+True,0,0,0,1,1,Swim with Dolphins or Sharks,21,7675,0,3014,Big,2.546449900464499
+True,0,1,1,0,0,Save for Retirement,23,9057,0,2191,Big,4.133728890917389
+True,0,0,1,1,0,College Fund for Children,13,6560,0,2257,Big,2.9065130704474966
+True,0,0,0,1,1,Refurbish my home,29,3854,0,1079,Big,3.571825764596849
+False,1,1,0,1,0,Purchase a car,30,2525,22858,904,Big,2.793141592920354
+False,1,2,0,0,0,Wedding to attend,26,9355,38669,4875,Small,1.918974358974359
+True,0,1,1,0,1,Home maintenance,19,5677,0,1911,Small,2.970695970695971
+True,1,0,0,1,0,Build 3 months emergency fund,22,2840,29454,1828,Small,1.5536105032822758
+False,1,1,1,1,0,Build 6 months emergency fund,18,8040,49988,2017,Small,3.986117997025285
+True,1,0,0,0,1,Build 12 months emergency fund,22,5504,4044,4489,Small,1.2261082646469146
+False,1,0,0,1,0,Birthday of family member or friend,8,4717,42375,2759,Small,1.7096774193548387
+False,1,1,0,1,1,Organise Christmas,22,9595,43025,3256,Small,2.946867321867322
+True,1,1,1,0,1,Saving for long break at work,30,7997,10843,2056,Small,3.889591439688716
+True,0,1,0,0,1,Build wealth through investments,30,7091,0,6040,Small,1.1740066225165562
+False,0,2,1,1,0,Plan vacations,21,8507,0,5560,,1.5300359712230216
+False,0,2,1,1,1,Purchase a house / flat,8,9869,0,4447,Big,2.219248931864178
+False,1,2,0,1,0,Pay-off your mortgage early,1,8374,43295,4761,Big,1.758874186095358
+True,1,0,1,1,0,Starting a family,5,6746,5416,4490,Big,1.5024498886414255
+False,1,1,0,1,1,Travel the World,25,4859,40354,3419,Big,1.4211757823925124
+True,1,1,0,0,1,Take a Road Trip Across a Country,22,9866,8482,3787,Big,2.605228412991814
+False,1,2,1,0,1,See the Northern Lights,12,1920,35823,1064,Big,1.8045112781954886
+False,0,0,0,1,0,Take a Cooking Class,15,7670,0,1518,Big,5.05270092226614
+False,1,0,1,1,0,Take a Helicopter Tour,7,7912,46964,6962,Big,1.136455041654697
+False,1,2,0,0,1,Stay in a Five-Star Hotel,4,8025,1856,3682,Big,2.179521998913634
+False,1,2,1,1,0,Fly First Class or in a Private Jet,15,8717,24885,3299,Big,2.6423158532888755
+True,1,0,1,1,0,Dine at a Michelin-Star Restaurant,4,8362,37135,2400,Big,3.484166666666667
+False,0,2,1,1,1,Sleep in an Ice Hotel,19,9949,0,6317,Big,1.5749564666772202
+True,0,1,1,1,0,Ride the Orient Express,11,7746,0,2167,Big,3.5745269958467927
+False,0,0,1,1,1,Scuba Diving in a Coral Reef,1,6093,0,5412,Big,1.125831485587583
+False,1,0,1,0,0,Climb a Mountain,27,6519,26077,4309,Big,1.5128800185657925
+True,1,2,1,1,0,Bungee Jump,14,2164,21297,1368,Big,1.5818713450292399
+True,0,0,1,0,1,Skydiving,30,9556,0,2632,Big,3.6306990881458967
+False,1,2,1,0,1,Go Paragliding,27,8925,26534,3557,Big,2.5091369131290415
+False,1,1,1,0,1,Visit a Volcano,29,5667,26072,5225,Big,1.0845933014354068
+True,0,0,1,1,1,Attend a Major Festival,9,3146,0,2466,Big,1.275750202757502
+False,1,1,1,0,0,Zip Line Through a Forest,19,7308,7159,797,Big,9.169385194479297
+True,0,0,0,1,1,Swim with Dolphins or Sharks,5,9797,0,698,Big,14.035816618911175
+False,0,2,1,1,0,Save for Retirement,18,9134,0,3387,Big,2.6967818128136996
+True,1,2,0,1,0,Start a company,29,9178,45452,5181,Big,1.7714726886701408
+True,1,1,0,1,1,College Fund for Children,14,3545,43068,955,Big,3.712041884816754
+True,0,1,0,0,0,Refurbish my home,8,8552,0,4326,Big,1.9768839574664818
+False,0,2,0,0,1,Purchase a car,27,1709,0,1100,Big,1.5536363636363637
+True,0,1,1,1,1,Purchase a land,24,8388,0,1471,Big,5.7022433718558805
+False,1,1,0,0,1,Organise Family event,24,9791,45077,2026,,4.832675222112537
+False,0,0,0,0,1,Wedding to attend,10,4629,0,2686,Small,1.7233804914370812
+False,0,0,0,1,1,Home maintenance,5,3622,0,1517,Small,2.3876071193144366
+True,1,0,0,1,1,Break the paycheck-to-paycheck cycle,26,9052,29156,5214,,1.7360951285001918
+True,0,1,0,1,1,Going on holidays in December,18,7759,0,4728,Small,1.6410744500846024
+False,0,0,1,0,1,Birthday of family member or friend,10,7232,0,5055,Small,1.4306627101879328
+True,0,2,1,1,0,Saving for long break at work,30,7305,0,3475,Small,2.102158273381295
+False,1,1,0,1,1,Build wealth through investments,20,7631,19450,6110,Small,1.248936170212766
+True,0,0,1,0,1,Financial Independence,16,7605,0,5592,Big,1.3599785407725322
+True,0,2,0,0,1,Travel the World,30,7734,0,4527,Big,1.708416169648774
+False,1,2,0,0,1,Go on an African Safari,6,2098,49008,572,Big,3.667832167832168
+False,1,2,1,0,0,Backpack Through Continent,24,6286,5032,4160,Big,1.5110576923076924
+True,1,0,0,1,1,See the Northern Lights,7,6218,33400,902,Big,6.893569844789357
+False,0,0,1,1,1,Learn a New Language,28,4911,0,3708,Big,1.3244336569579287
+True,1,0,0,1,0,Fly First Class or in a Private Jet,25,7578,33255,662,Big,11.44712990936556
+True,1,0,1,0,0,Dine at a Michelin-Star Restaurant,26,6434,48932,6163,Big,1.043972091513873
+False,1,2,1,1,0,Sleep in an Ice Hotel,9,9674,22748,3757,Big,2.5749268033005057
+True,1,0,0,0,1,Ride the Orient Express,5,5912,2370,5016,Big,1.178628389154705
+False,0,2,0,0,1,Climb a Mountain,23,2357,0,690,Big,3.415942028985507
+True,1,2,1,0,0,Bungee Jump,20,6815,49687,6283,Big,1.0846729269457265
+False,0,1,1,0,0,Skydiving,4,6050,0,2918,Big,2.073337902673064
+False,0,1,1,0,1,Go Paragliding,5,9493,0,5532,Big,1.7160159074475778
+False,0,0,0,0,1,Stay in an Overwater Bungalow,27,3338,0,1867,Big,1.7878950187466525
+True,0,1,1,0,0,Explore Ancient Ruins,8,8590,0,715,Big,12.013986013986013
+False,1,0,0,0,1,Attend a Major Festival,11,9478,29200,4571,Big,2.0735068912710566
+False,0,0,0,0,0,Attend a Major Sporting Event,30,9082,0,5489,Big,1.6545818910548369
+False,1,0,1,0,0,Camp Under the Stars,27,5669,42848,5063,Big,1.1196918822832314
+False,1,1,1,1,1,Save for Retirement,10,8484,37829,2983,Big,2.8441166610794504
+False,1,1,1,0,0,Start a company,7,9818,48264,2309,Big,4.252057167605024
+False,1,1,1,1,1,College Fund for Children,16,2983,43896,2177,Big,1.3702342673403767
+False,1,0,1,1,0,Refurbish my home,30,9183,12883,3716,Big,2.471205597416577
+False,1,1,1,0,0,Purchase a car,2,7336,32122,5201,Big,1.4104979811574698
+True,1,1,0,0,0,Purchase a boat,12,6619,41547,3859,Big,1.7152111946100026
+False,1,2,1,0,1,Purchase a land,6,3717,25515,3324,Big,1.1182310469314078
+False,1,1,1,0,1,Organise Family event,23,4201,40807,1321,,3.1801665404996213
+False,1,2,0,1,1,Wedding to attend,9,2582,35006,2516,Small,1.0262321144674087
+True,0,2,1,0,1,Home maintenance,28,5803,0,2062,Small,2.8142580019398644
+True,0,1,1,0,1,Build 12 months emergency fund,30,8996,0,6843,Small,1.3146280870963027
+False,1,2,1,1,0,Break the paycheck-to-paycheck cycle,28,4893,37783,2149,,2.2768729641693812
+False,0,1,1,0,1,Organise Christmas,10,7469,0,1601,Small,4.665209244222361
+True,1,0,1,0,0,Saving for long break at work,21,5442,14335,2254,Small,2.414374445430346
+False,1,0,0,1,1,Build wealth through investments,26,6336,9514,2213,Small,2.8630817894261185
+False,1,0,1,1,1,Plan vacations,17,5423,18344,1937,,2.799690242643263
+False,0,1,0,0,1,Purchase a house / flat,28,5589,0,3549,Big,1.5748098055790363
+True,1,0,1,0,0,Pay-off your mortgage early,26,7312,47894,4853,Big,1.5066968885225633
+True,1,1,1,0,0,Financial Independence,27,5603,27796,2341,Big,2.393421614694575
+False,1,0,0,0,0,Travel the World,28,8902,1655,563,Big,15.811722912966252
+False,1,0,1,1,1,Go on an African Safari,30,7033,49606,2539,Big,2.769988184324537
+True,0,0,1,0,0,Take a Road Trip Across a Country,29,6400,0,576,Big,11.11111111111111
+True,1,0,1,0,1,Backpack Through Continent,12,9331,13223,6392,Big,1.459793491864831
+True,0,0,0,0,0,See the Northern Lights,26,5176,0,987,Big,5.244174265450861
+True,1,2,0,1,0,Get a Degree or Certification,15,6737,32635,4402,Big,1.5304407087687415
+True,1,0,0,1,0,Take a Cooking Class,30,7536,19926,3131,Big,2.4068987543915683
+True,0,1,0,0,0,Learn a New Language,2,5505,0,1906,Big,2.8882476390346277
+False,0,2,1,1,1,Stay in a Five-Star Hotel,28,9586,0,769,Big,12.46553966189857
+True,0,1,0,1,1,Fly First Class or in a Private Jet,11,4652,0,1904,Big,2.44327731092437
+True,0,0,0,1,1,Dine at a Michelin-Star Restaurant,20,4484,0,2859,Big,1.5683805526407835
+True,1,1,0,0,0,Sleep in an Ice Hotel,29,6968,33253,3247,Big,2.145980905451186
+False,1,1,0,0,0,Scuba Diving in a Coral Reef,25,8034,15290,1605,Big,5.005607476635514
+True,0,0,0,0,0,Climb a Mountain,3,3946,0,724,Big,5.4502762430939224
+True,0,0,1,0,1,Bungee Jump,26,3466,0,1101,Big,3.148047229791099
+True,1,0,1,1,0,Visit a Volcano,22,6458,7322,5014,Big,1.287993617869964
+False,1,2,0,0,1,Stay in an Overwater Bungalow,8,5050,42940,1154,Big,4.3760831889081455
+False,1,2,0,1,1,Attend a Major Sporting Event,20,4467,45031,2081,Big,2.146564151850072
+False,1,2,0,0,0,Camp Under the Stars,25,5589,3209,2169,Big,2.5767634854771786
+True,1,2,0,0,1,Save for Retirement,17,2903,21234,2611,Big,1.1118345461509
+False,0,0,1,1,1,Start a company,17,4823,0,4171,Big,1.1563174298729322
+True,1,2,0,1,0,College Fund for Children,30,9487,16432,3023,Big,3.1382732385047967
+True,1,2,1,0,0,Refurbish my home,21,4950,48763,3183,Big,1.5551366635249764
+False,0,2,0,0,0,Purchase a car,27,9641,0,545,Big,17.689908256880734
+False,1,1,0,1,0,Purchase a boat,16,6447,40938,5808,Big,1.1100206611570247
+False,0,1,0,1,0,Organise Family event,19,9428,0,3966,,2.3772062531517903
+True,1,1,0,0,1,Wedding to attend,9,9230,24219,1712,Small,5.391355140186916
+False,1,2,1,0,0,Home maintenance,7,2988,22920,630,Small,4.742857142857143
+False,1,2,1,1,1,Build 3 months emergency fund,30,9713,29745,3028,Small,3.2077278731836194
+True,1,2,1,1,0,Build 6 months emergency fund,23,6391,7698,5684,Small,1.124384236453202
+False,0,1,0,0,0,Build 12 months emergency fund,15,6404,0,3511,Small,1.82398177157505
+False,0,2,1,0,0,Break the paycheck-to-paycheck cycle,22,9166,0,4607,,1.989581072281311
+True,0,1,0,0,0,Going on holidays in December,7,2705,0,2362,Small,1.1452159187129551
+False,1,0,1,1,0,Organise Christmas,25,8586,21901,2633,Small,3.2609191036840106
+True,0,2,1,0,0,Saving for long break at work,29,7357,0,1506,Small,4.885126162018592
+True,1,0,1,1,0,Plan vacations,2,8426,11041,4481,,1.8803838428922115
+True,1,1,1,1,1,Pay-off your mortgage early,2,8530,7852,4838,Big,1.7631252583712278
+True,0,0,0,1,0,Starting a family,3,7216,0,6255,Big,1.1536370903277378
+True,1,2,0,0,1,Financial Independence,6,9429,3063,1985,Big,4.750125944584383
+True,1,0,1,1,0,Travel the World,16,5582,39566,4257,Big,1.311252055438102
+False,1,0,0,0,0,Go on an African Safari,23,9756,25905,2897,Big,3.3676216775975147
+True,0,0,1,0,0,Backpack Through Continent,27,5121,0,1274,Big,4.019623233908948
+True,0,1,0,1,0,See the Northern Lights,28,8045,0,2006,Big,4.010468594217348
+True,0,2,0,0,0,Learn to Play a Musical Instrument,27,4351,0,3693,Big,1.1781749255347955
+True,0,2,0,1,1,Take a Helicopter Tour,15,8049,0,4330,Big,1.858891454965358
+False,0,1,0,1,1,Stay in a Five-Star Hotel,14,4015,0,3583,Big,1.120569355288864
+True,0,0,0,0,1,Fly First Class or in a Private Jet,24,8986,0,1790,Big,5.020111731843575
+True,0,1,1,1,1,Sleep in an Ice Hotel,7,1845,0,1088,Big,1.6957720588235294
+True,1,2,0,0,0,Scuba Diving in a Coral Reef,18,6447,32599,4958,Big,1.300322710770472
+False,1,0,1,1,1,Climb a Mountain,6,8574,39486,4917,Big,1.7437461866992068
+True,1,1,1,1,1,Skydiving,14,5660,47989,4690,Big,1.20682302771855
+False,0,1,0,0,0,Go Paragliding,10,9174,0,3739,Big,2.4535972185076225
+True,0,0,1,0,1,Explore Ancient Ruins,3,8445,0,3817,Big,2.212470526591564
+True,1,0,1,0,0,Attend a Major Festival,26,8900,12387,6492,Big,1.3709180529882934
+False,0,2,1,1,0,Zip Line Through a Forest,10,8400,0,4754,Big,1.766933108960875
+False,0,0,0,1,1,Attend a Major Sporting Event,4,8917,0,3638,Big,2.4510720175920837
+False,0,2,0,1,1,Start a company,15,9877,0,893,Big,11.06047032474804
+True,0,2,0,0,1,Purchase a car,13,5326,0,4667,Big,1.1412041997000215
+False,1,1,1,1,1,Purchase a boat,13,7254,10863,575,Big,12.615652173913043
+False,0,1,1,0,1,Purchase a land,12,9163,0,2279,Big,4.0206230802983765
+False,0,1,1,0,1,Organise Family event,14,8203,0,4375,,1.8749714285714285
+True,1,2,1,1,0,Wedding to attend,16,6080,36460,1113,Small,5.462713387241689
+False,1,0,1,1,0,Home maintenance,5,3951,46880,2683,Small,1.4726052925829296
+False,1,0,1,0,1,Build 3 months emergency fund,12,9422,18997,4617,Small,2.0407190816547542
+True,1,1,0,1,1,Build 6 months emergency fund,18,3025,28378,757,Small,3.9960369881109643
+True,1,1,0,0,0,Build 12 months emergency fund,17,4586,25972,4102,Small,1.1179912237932716
+True,0,1,0,0,0,Break the paycheck-to-paycheck cycle,17,6317,0,1499,,4.214142761841227
+True,1,0,0,0,1,Going on holidays in December,13,3661,4166,3365,Small,1.087964338781575
+True,0,2,0,1,1,Birthday of family member or friend,20,7920,0,1238,Small,6.3974151857835215
+True,0,1,1,0,1,Organise Christmas,8,6861,0,873,Small,7.859106529209622
+False,1,2,1,0,0,Saving for long break at work,25,5116,1155,3848,Small,1.3295218295218296
+True,0,0,1,1,0,Build wealth through investments,24,4159,0,4087,Small,1.0176168338634695
+True,0,0,1,0,0,Purchase a house / flat,30,7742,0,6143,Big,1.2602962721797168
+False,0,1,1,0,0,Pay-off your mortgage early,30,7230,0,6200,Big,1.1661290322580644
+True,1,2,1,0,1,Starting a family,14,9479,2104,3254,Big,2.9130301167793484
+True,0,2,1,1,0,Go on an African Safari,30,9894,0,6897,Big,1.4345367551109178
+False,1,2,0,0,1,See the Northern Lights,14,3187,18403,1382,Big,2.306078147612156
+False,0,2,1,1,1,Take a Cooking Class,11,7255,0,1065,Big,6.812206572769953
+True,0,0,1,1,0,Learn a New Language,1,4374,0,602,Big,7.26578073089701
+True,0,1,0,0,0,Learn to Play a Musical Instrument,24,9412,0,3143,Big,2.994591154947502
+True,1,1,1,1,1,Take a Helicopter Tour,27,8661,43171,2504,Big,3.4588658146964857
+False,1,1,0,0,1,Stay in a Five-Star Hotel,25,6394,47961,2775,Big,2.304144144144144
+True,1,2,0,1,1,Dine at a Michelin-Star Restaurant,12,6986,32139,1178,Big,5.930390492359932
+False,0,0,1,1,0,Ride the Orient Express,13,2725,0,1124,Big,2.4243772241992882
+False,0,0,0,1,0,Scuba Diving in a Coral Reef,22,3663,0,3043,Big,1.20374630299047
+True,0,0,1,0,0,Bungee Jump,30,5446,0,1151,Big,4.731537793223284
+False,0,1,1,1,0,Go Paragliding,15,2501,0,1644,Big,1.5212895377128954
+True,1,2,1,1,0,Visit a Volcano,5,4814,38405,3910,Big,1.2312020460358055
+True,1,2,1,0,1,Stay in an Overwater Bungalow,9,4344,30186,2731,Big,1.5906261442694984
+False,0,1,1,0,0,Explore Ancient Ruins,4,2978,0,1365,Big,2.1816849816849815
+True,0,1,0,1,1,Zip Line Through a Forest,30,2631,0,521,Big,5.049904030710173
+False,0,0,0,1,1,Attend a Major Sporting Event,19,9644,0,6203,Big,1.554731581492826
+False,1,0,0,0,0,Camp Under the Stars,4,8977,15809,5392,Big,1.6648738872403561
+False,1,1,0,1,1,Start a company,23,9383,26310,856,Big,10.961448598130842
+True,1,1,1,1,0,Purchase a car,29,6559,11468,2251,Big,2.9138160817414485
+False,0,2,0,0,0,Purchase a boat,1,7995,0,1133,Big,7.05648720211827
+False,0,1,0,0,0,Purchase a land,30,7349,0,2671,Big,2.7514039685511045
+True,1,1,1,0,0,Organise Family event,25,3070,36337,1512,,2.0304232804232805
+True,1,1,0,0,0,Wedding to attend,20,4441,49742,997,Small,4.454363089267804
+False,1,1,1,0,0,Build 3 months emergency fund,23,6198,36310,4904,Small,1.2638662316476346
+False,1,2,1,0,1,Build 12 months emergency fund,22,6827,1056,5816,Small,1.1738308115543328
+True,1,1,0,0,1,Break the paycheck-to-paycheck cycle,19,8335,19460,5637,,1.4786233812311513
+True,0,1,0,0,0,Going on holidays in December,18,9832,0,3772,Small,2.606574761399788
+False,0,2,1,1,0,Birthday of family member or friend,19,7939,0,6232,Small,1.2739088575096278
+False,0,0,0,1,1,Saving for long break at work,4,2705,0,895,Small,3.022346368715084
+True,0,2,0,1,0,Build wealth through investments,2,9996,0,1952,Small,5.120901639344262
+False,1,1,1,1,0,Plan vacations,10,2348,2189,869,,2.701956271576525
+True,0,0,0,1,1,Pay-off your mortgage early,26,9752,0,2365,Big,4.123467230443975
+True,0,1,0,1,0,Starting a family,19,8212,0,5625,Big,1.4599111111111112
+True,0,0,1,1,1,Financial Independence,6,6589,0,4551,Big,1.4478136673258624
+True,1,2,0,0,1,Travel the World,11,7473,18832,3460,Big,2.159826589595376
+False,0,0,1,0,1,Go on an African Safari,5,1484,0,1234,Big,1.2025931928687197
+True,0,0,1,0,1,Take a Road Trip Across a Country,20,4493,0,2582,Big,1.7401239349341595
+True,1,1,0,1,1,Backpack Through Continent,5,1796,34305,1364,Big,1.316715542521994
+False,1,2,0,1,1,See the Northern Lights,17,7071,46273,4536,Big,1.558862433862434
+False,0,0,1,0,1,Get a Degree or Certification,14,8380,0,2157,Big,3.885025498377376
+True,0,1,0,0,1,Take a Cooking Class,3,4538,0,2203,Big,2.0599182932364957
+True,0,1,0,0,1,Learn a New Language,23,4111,0,1538,Big,2.6729518855656695
+False,1,2,1,0,1,Learn to Play a Musical Instrument,8,5208,16836,4352,Big,1.1966911764705883
+True,0,2,0,1,0,Take a Helicopter Tour,8,8757,0,2543,Big,3.443570585922139
+True,0,0,1,1,0,Stay in a Five-Star Hotel,27,4321,0,3446,Big,1.2539175856065004
+True,1,1,0,0,1,Ride the Orient Express,20,7787,21275,6779,Big,1.1486944977135272
+False,0,1,1,0,0,Climb a Mountain,9,4069,0,3988,Big,1.0203109327983952
+True,0,1,1,1,0,Bungee Jump,10,7510,0,6698,Big,1.1212302179755151
+False,0,0,0,0,1,Skydiving,22,9153,0,3343,Big,2.737959916242896
+True,0,0,0,0,1,Visit a Volcano,23,3259,0,2270,Big,1.4356828193832598
+True,0,1,0,0,0,Stay in an Overwater Bungalow,25,7249,0,4933,Big,1.4694911818366105
+False,1,1,1,0,0,Explore Ancient Ruins,5,6328,22306,5510,Big,1.1484573502722324
+True,1,0,0,1,0,Zip Line Through a Forest,3,3145,43895,870,Big,3.6149425287356323
+False,0,2,1,0,1,Swim with Dolphins or Sharks,8,3466,0,1672,Big,2.0729665071770333
+True,1,2,1,0,1,Attend a Major Sporting Event,28,9645,39283,5458,Big,1.7671308171491389
+False,1,1,0,1,1,Camp Under the Stars,23,9993,19572,5797,Big,1.7238226668966707
+True,1,0,1,1,0,Save for Retirement,22,9682,7058,6014,Big,1.6099102095111406
+False,1,1,0,1,1,Purchase a car,29,6555,27453,2486,Big,2.6367658889782786
+False,0,0,0,0,0,Purchase a boat,14,9700,0,3007,Big,3.225806451612903
+True,0,1,0,0,0,Purchase a land,26,7183,0,1689,Big,4.252812314979278
+True,1,1,1,1,1,Organise Family event,23,9400,44411,2616,,3.5932721712538225
+True,1,1,1,1,1,Wedding to attend,11,7282,27198,5686,Small,1.280689412592332
+True,1,0,1,0,1,Home maintenance,11,9004,49976,2538,Small,3.5476753349093775
+True,0,0,1,0,1,Build 3 months emergency fund,22,8142,0,4277,Small,1.9036707972878186
+True,0,1,0,0,1,Build 12 months emergency fund,11,5859,0,765,Small,7.658823529411765
+False,1,1,1,1,0,Break the paycheck-to-paycheck cycle,17,9798,28025,5820,,1.6835051546391753
+False,0,0,1,1,1,Going on holidays in December,17,6224,0,2989,Small,2.082301773168284
+False,1,2,1,0,1,Birthday of family member or friend,29,1414,12391,799,Small,1.769712140175219
+True,0,0,1,1,0,Organise Christmas,27,8764,0,4382,Small,2.0
+False,1,2,1,1,0,Plan vacations,28,8326,21558,5127,,1.6239516286327287
+False,1,1,1,1,0,Purchase a house / flat,3,7426,10792,919,Big,8.080522306855277
+False,0,0,0,1,1,Pay-off your mortgage early,27,7713,0,4360,Big,1.7690366972477065
+True,1,2,0,0,1,Travel the World,2,9864,16774,4912,Big,2.00814332247557
+True,0,1,0,0,0,Take a Road Trip Across a Country,13,4921,0,1008,Big,4.881944444444445
+True,1,1,0,1,0,Backpack Through Continent,6,8608,21740,1787,Big,4.817011751538892
+False,0,2,1,1,1,Take a Cooking Class,10,9140,0,2668,Big,3.4257871064467764
+True,1,0,1,1,0,Learn a New Language,3,7398,9805,6440,Big,1.1487577639751554
+True,1,0,1,0,0,Take a Helicopter Tour,29,1052,16973,811,Big,1.2971639950678175
+False,1,0,0,0,0,Stay in a Five-Star Hotel,2,8974,14330,689,Big,13.02467343976778
+False,0,2,0,1,0,Dine at a Michelin-Star Restaurant,22,5783,0,3660,Big,1.5800546448087431
+False,1,1,0,0,1,Sleep in an Ice Hotel,3,9598,13989,3665,Big,2.6188267394270124
+False,0,1,1,1,1,Ride the Orient Express,30,5217,0,1093,Big,4.773101555352241
+True,0,1,1,0,0,Scuba Diving in a Coral Reef,29,7202,0,3534,Big,2.037917374080362
+False,1,1,1,0,0,Bungee Jump,3,5504,42402,4001,Big,1.3756560859785054
+False,1,0,1,1,1,Go Paragliding,14,8339,37388,962,Big,8.66839916839917
+False,1,0,1,1,0,Visit a Volcano,3,5684,23706,2840,Big,2.0014084507042256
+True,1,1,0,1,1,Stay in an Overwater Bungalow,17,3867,17539,2676,Big,1.445067264573991
+False,0,2,1,1,1,Attend a Major Festival,13,5676,0,2422,Big,2.343517753922378
+False,1,0,0,1,1,Swim with Dolphins or Sharks,3,9370,42052,4481,Big,2.0910511046641376
+True,1,0,1,1,1,Attend a Major Sporting Event,19,8751,33016,3293,Big,2.657455208017006
+True,1,1,1,1,0,Camp Under the Stars,27,5489,35783,526,Big,10.435361216730039
+True,1,0,0,1,0,College Fund for Children,22,8394,49053,5707,Big,1.4708253022603819
+False,0,0,0,1,1,Purchase a car,6,2536,0,1229,Big,2.06346623270952
+True,0,1,0,1,0,Purchase a land,20,2868,0,665,Big,4.312781954887218
+False,0,0,1,1,0,Organise Family event,1,6102,0,3966,,1.5385779122541603
+False,1,1,0,0,1,Build 3 months emergency fund,10,7657,6625,2356,Small,3.25
+True,1,0,1,1,0,Build 6 months emergency fund,3,2162,32571,1874,Small,1.1536819637139808
+True,0,2,0,1,1,Break the paycheck-to-paycheck cycle,12,4154,0,3755,,1.1062583222370173
+False,1,0,1,1,0,Going on holidays in December,22,9924,20519,660,Small,15.036363636363637
+False,0,1,1,0,1,Birthday of family member or friend,14,6344,0,2431,Small,2.609625668449198
+True,0,1,0,1,1,Organise Christmas,28,9839,0,3100,Small,3.1738709677419354
+False,1,0,0,0,0,Build wealth through investments,30,6765,32001,3509,Small,1.9278996865203761
+True,0,2,1,1,1,Plan vacations,11,2361,0,2096,,1.1264312977099236
+False,0,2,1,0,0,Purchase a house / flat,21,5385,0,1703,Big,3.162066940692895
+True,0,1,0,1,0,Pay-off your mortgage early,30,7729,0,3574,Big,2.1625629546726355
+False,1,2,0,0,0,Financial Independence,6,8389,45461,4100,Big,2.0460975609756096
+True,0,1,0,0,0,Go on an African Safari,21,9324,0,5062,Big,1.8419596997234295
+True,1,0,0,0,0,Take a Road Trip Across a Country,7,1237,23764,760,Big,1.6276315789473683
+False,1,2,1,1,1,Learn a New Language,5,3301,25760,1936,Big,1.7050619834710743
+True,0,1,1,1,0,Learn to Play a Musical Instrument,14,9489,0,6092,Big,1.5576165462902167
+True,0,0,0,1,1,Take a Helicopter Tour,15,7600,0,6877,Big,1.1051330522029954
+True,1,2,1,0,0,Fly First Class or in a Private Jet,21,3170,14557,2774,Big,1.1427541456380679
+False,1,0,0,0,1,Dine at a Michelin-Star Restaurant,4,9806,37843,4148,Big,2.3640308582449374
+False,0,1,0,0,1,Ride the Orient Express,6,8561,0,5589,Big,1.5317588119520487
+True,1,1,0,1,0,Scuba Diving in a Coral Reef,14,3734,36853,2721,Big,1.3722895994119808
+True,1,1,0,1,1,Bungee Jump,23,5138,44779,2306,Big,2.228100607111882
+True,1,2,1,0,0,Skydiving,26,8864,13805,4894,Big,1.8111973845525133
+True,0,1,0,0,1,Go Paragliding,4,9620,0,811,Big,11.86189889025894
+False,1,0,1,0,1,Visit a Volcano,17,7526,20762,3578,Big,2.1034097261039686
+False,1,0,1,1,0,Stay in an Overwater Bungalow,15,9371,36600,3334,Big,2.810737852429514
+False,0,0,1,1,0,Zip Line Through a Forest,11,5962,0,4689,Big,1.2714864576668798
+True,1,2,0,0,0,Swim with Dolphins or Sharks,22,9888,36366,3876,Big,2.5510835913312695
+True,1,0,1,1,0,Camp Under the Stars,3,8322,6955,2342,Big,3.5533731853116994
+False,0,0,1,0,0,Save for Retirement,9,7205,0,3882,Big,1.8560020607934054
+False,0,0,0,1,0,Start a company,1,5337,0,1503,Big,3.5508982035928143
+False,1,0,0,1,1,College Fund for Children,5,5285,25703,3451,Big,1.5314401622718052
+True,0,2,1,1,1,Refurbish my home,28,8620,0,2148,Big,4.013035381750465
+False,1,1,1,0,1,Purchase a land,16,7083,47550,6049,Big,1.170937345015705
+False,1,1,0,0,0,Organise Family event,24,3524,7220,3253,,1.0833077159545035
+True,0,1,1,0,0,Wedding to attend,16,7959,0,3935,Small,2.022617534942821
+False,0,2,1,1,0,Home maintenance,10,5357,0,1262,Small,4.244849445324881
+True,0,0,0,1,1,Build 6 months emergency fund,1,6804,0,1568,Small,4.339285714285714
+True,0,0,1,1,0,Build 12 months emergency fund,19,7406,0,3872,Small,1.912706611570248
+False,0,2,1,0,1,Break the paycheck-to-paycheck cycle,19,2379,0,1003,,2.3718843469591224
+False,1,1,0,1,0,Saving for long break at work,3,9417,33383,572,Small,16.463286713286713
+False,1,1,0,1,1,Build wealth through investments,28,8673,44303,3859,Small,2.247473438714693
+True,0,0,0,1,0,Plan vacations,29,5603,0,3224,,1.7379032258064515
+False,1,2,0,1,1,Purchase a house / flat,12,6644,6032,4116,Big,1.6141885325558796
+True,1,1,0,0,1,Pay-off your mortgage early,12,9735,5381,3589,Big,2.7124547227640012
+False,0,0,0,0,1,Starting a family,27,7460,0,2978,Big,2.5050369375419743
+True,0,2,1,1,0,Financial Independence,27,7269,0,6803,Big,1.0684991915331472
+True,0,1,0,1,1,Travel the World,24,3876,0,755,Big,5.133774834437086
+True,1,0,1,0,0,Go on an African Safari,16,7930,16258,4299,Big,1.8446150267504071
+True,0,1,1,0,1,Take a Road Trip Across a Country,2,2513,0,754,Big,3.3328912466843503
+True,0,0,1,1,0,Backpack Through Continent,25,1650,0,701,Big,2.353780313837375
+True,1,2,0,1,1,See the Northern Lights,13,9849,4009,5311,Big,1.8544530220297495
+True,1,0,0,1,0,Take a Cooking Class,28,8638,1433,3452,Big,2.5023174971031286
+True,1,2,1,1,1,Take a Helicopter Tour,21,4135,19395,1744,Big,2.37098623853211
+False,1,1,1,1,1,Stay in a Five-Star Hotel,23,3813,40752,991,Big,3.8476286579212915
+False,1,1,0,0,0,Fly First Class or in a Private Jet,10,4415,32790,2693,Big,1.6394355737096176
+False,0,2,0,1,1,Dine at a Michelin-Star Restaurant,20,8595,0,6150,Big,1.397560975609756
+False,0,2,1,0,0,Sleep in an Ice Hotel,15,5750,0,5506,Big,1.044315292408282
+False,0,2,1,0,1,Ride the Orient Express,15,9112,0,6763,Big,1.3473310660949283
+False,1,2,0,1,1,Scuba Diving in a Coral Reef,14,2919,23784,1549,Big,1.8844415752098127
+True,1,0,1,1,0,Climb a Mountain,12,5988,14848,1298,Big,4.613251155624037
+False,0,0,0,1,0,Bungee Jump,14,6355,0,5605,Big,1.1338090990187333
+True,0,1,1,1,0,Go Paragliding,11,7332,0,1394,Big,5.259684361549498
+True,1,2,0,0,1,Visit a Volcano,9,2070,13118,855,Big,2.4210526315789473
+False,1,1,0,0,0,Stay in an Overwater Bungalow,8,4775,45200,4452,Big,1.0725516621743036
+False,1,2,0,0,0,Explore Ancient Ruins,13,5305,16186,4840,Big,1.0960743801652892
+False,1,1,0,0,1,Attend a Major Festival,30,8882,45153,6781,Big,1.3098363073293025
+False,1,0,1,0,0,Zip Line Through a Forest,30,3304,25752,3245,Big,1.018181818181818
+False,0,1,0,0,1,Attend a Major Sporting Event,3,8010,0,2996,Big,2.673564753004005
+True,1,1,0,0,0,Save for Retirement,11,9038,33781,6250,Big,1.44608
+False,0,0,0,0,1,Start a company,13,8130,0,3600,Big,2.2583333333333333
+False,1,2,1,0,1,College Fund for Children,24,8013,34967,5389,Big,1.4869177955093709
+False,1,0,0,1,0,Refurbish my home,18,2625,5286,2413,Big,1.0878574388727724
+True,1,1,0,0,1,Purchase a car,24,8944,35774,4080,Big,2.1921568627450982
+False,1,0,1,0,0,Organise Family event,6,8938,32500,1961,,4.557878633350332
+True,1,2,1,1,0,Wedding to attend,27,7613,28130,2916,Small,2.6107681755829906
+False,1,2,0,1,0,Build 6 months emergency fund,10,9170,33761,5025,Small,1.8248756218905473
