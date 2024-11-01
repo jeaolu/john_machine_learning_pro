@@ -1,4 +1,4 @@
-Do you have Family?,Are you paying a Debt?,Employment Status,Are you a Student?,Do you Travel a Lot?,Have a Well Paid Job?,Saving Goals,Duration to Accomplish Goals (years),Income per Month,Debt Amount,Monthly Expenses,Goal Type,Goal Amount,Current Savings,total_savings_required,monthly_savings_rate,income_expense_ratio
+Do you have Family?,Are you paying a Debt?,Employment Status,Are you a Student?,Do you Travel a Lot?,Have a Well Paid Job?,Saving Goals,Duration to Accomplish Goals (years),Monthly Expenses,Debt Amount,Income per Month,Goal Type,Goal Amount,Current Savings,total_savings_required,monthly_savings_rate,income_expense_ratio
 True,0,1,1,1,1,Start a company,6,2238,0,5925,Big,8018,1396,,,0.3777215189873418
 False,1,1,0,1,0,Purchase a car,21,4574,32010,5210,Big,606,6888,,,0.8779270633397313
 False,0,2,1,1,0,Purchase a boat,14,1060,0,1972,Big,555,1111,,,0.537525354969574
